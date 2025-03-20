@@ -96,12 +96,10 @@ This repository contains a **Study Assistant** application built using [LangChai
 study-assistant/
 ├── Personalised_Study_Assistant.ipynb    # Example Colab/Jupyter notebook
 ├── README.md                # Project documentation
-├── requirements.txt         # Dependencies
 └── ...
 ```
 
 - **`study_assistant.ipynb`**: Main notebook demonstrating the entire pipeline (PDF extraction, summary chain, MCQ chain).  
-- **`requirements.txt`**: Lists required libraries (LangChain, PyPDF2, etc.).  
 - **`README.md`**: This file, providing an overview and usage instructions.
 
 ---
